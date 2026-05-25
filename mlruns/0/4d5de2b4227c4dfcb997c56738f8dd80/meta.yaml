@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sanjsah/Desktop/Mlops/Mlops_project/mlruns/0/4d5de2b4227c4dfcb997c56738f8dd80/artifacts
+end_time: 1779714288736
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d5de2b4227c4dfcb997c56738f8dd80
+run_name: capable-dolphin-861
+run_uuid: 4d5de2b4227c4dfcb997c56738f8dd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779714288196
+status: 3
+tags: []
+user_id: sanjsah

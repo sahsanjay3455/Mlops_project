@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sanjsah/Desktop/Mlops/Mlops_project/mlruns/0/a042cdf3358441a89b2a1930d0846c61/artifacts
+end_time: 1779704479486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a042cdf3358441a89b2a1930d0846c61
+run_name: bold-croc-414
+run_uuid: a042cdf3358441a89b2a1930d0846c61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779704479295
+status: 3
+tags: []
+user_id: sanjsah

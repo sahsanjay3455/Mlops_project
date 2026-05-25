@@ -1,0 +1,22 @@
+stages:
+  preprocess:
+    cmd: python src/data_preprocessing.py
+    deps:
+      - data/raw/titanic.csv
+      - src/data_preprocessing.py
+    outs:
+      - data/processed/data.csv
+
+  train:
+    cmd: python src/train.py
+    deps:
+      - data/processed/data.csv
+      - src/train.py
+    outs:
+      - models/model.pkl
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - models/model.pkl
+      - src/evaluate.py
